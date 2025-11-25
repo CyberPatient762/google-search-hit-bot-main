@@ -1,0 +1,27 @@
+{
+  "domains": ["example.com"],
+  "maxPages": 5,
+  "keywordsFile": "keywords.txt",
+  "cookiesFolder": "cookies",
+  "proxiesFile": "proxies.txt",
+  "headless": false,
+  "threads": 10,
+  "browseTime": 60000,
+  "maxClicks": 3,
+  "spreadThreads": true,
+  "timeFrameHours": 6,
+  "executablePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "minScrolls": 2,
+  "maxScrolls": 5,
+  "minWaitTime": 2000,
+  "maxWaitTime": 5000,
+  "clickProbability": 0.7,
+  "userAgentType": "random",
+  "captcha": {
+    "enabled": true,
+    "apiKey": "YOUR_2CAPTCHA_API_KEY",
+    "service": "2captcha",
+    "autoSolve": true,
+    "maxRetries": 3
+  }
+}
