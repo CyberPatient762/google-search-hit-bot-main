@@ -1,6 +1,6 @@
 # google-Search-Hit-bot-Capcha
-Google Search Hit Bot Capcha Solver-Proxies-Cookies
-# 🔥 Google Search Traffic Bot Capcha Resolver Eklendi
+Google Search Hit Bot Captcha Solver-Proxies-Cookies
+# 🔥 Google Search Traffic Bot Captcha Resolver Eklendi
 
 Bu proje, **Node.js + Puppeteer-real-browser** kullanarak çoklu thread desteğiyle Google'da arama yapan, belirlenen domainleri bulan ve tıklayan gelişmiş bir bot'tur.
 
